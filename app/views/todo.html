@@ -1,9 +1,12 @@
 
 <div class="container">
 
-    <form role="form" ng-submit="addTodo()">
+
 
         <div class="row">
+
+            <notice-message></notice-message>
+
             <button data-target="#myModal" data-toggle="modal" class="btn btn-primary btn-lg" type="button">
                 Add todo
             </button>
@@ -15,13 +18,27 @@
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                             <h4 class="modal-title" id="myModalLabel">Modal title</h4>
                         </div>
-                        <div class="modal-body">
-                            ...
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                            <button type="button" class="btn btn-primary">Save changes</button>
-                        </div>
+
+                        <form class="" novalidate="">
+                            <div class="modal-body">
+
+                                    <div class="form-group">
+                                        <label for="" class="control-label">Task</label>
+                                        <input type="text" name="task" data-ng-model="todo.description" class="form-control"/>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="" class="control-label">Date</label>
+                                        <input type="text" class="form-control ui-datepicker" name="date" data-ng-model="todo.date" />
+                                    </div>
+
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-default" ng-click="resetForm();" data-dismiss="modal">Close</button>
+                                <button type="submit" class="btn btn-primary">Add Todo</button>
+                            </div>
+                        </form>
+
                     </div>
                 </div>
             </div>
@@ -32,11 +49,11 @@
             <h2>My todos</h2>
             <div class="list-group" ui-sortable ng-model="todos">
                 <a data-ng-repeat="todo in todos" class="list-group-item" style="padding:5px 10px; cursor: move;">
-                    <span class="badge pull-left">work</span>&nbsp;{{todo.title}}
-                    <span class="glyphicon glyphicon-trash pull-right"></span>
-                    <span class="glyphicon glyphicon-pencil pull-right"></span>
+                    <span class="badge pull-left">work</span>&nbsp;{{todo.description}}
+                    <span class="glyphicon glyphicon-trash pull-right" ng-click="removeTask(todo.id)"></span>
+                    <span class="glyphicon glyphicon-pencil pull-right" ng-click="updateTask(todo.id)"></span>
                 </a>
             </div>
         </div>
-    </form>
+
 </div>

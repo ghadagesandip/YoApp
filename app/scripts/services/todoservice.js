@@ -17,4 +17,13 @@ angular.module('yoAppApp')
     this.addNewTodo = function(){
         return $http.post(apibaseurl+'saveTodo');
     };
+
+    this.updateTodo = function(){
+
+    };
+
+    this.removeTodo = function(id){
+        return $http.delete(apibaseurl+'deleteTodo/'+id,{method:'delete'});
+    };
+
   });

@@ -10,11 +10,13 @@
 angular.module('yoAppApp')
   .controller('TodoCtrl', function ($scope,todoService) {
 
+        $scope.danger = true;
+
         todoService.getTodos()
-            .success(function(data){
+            .success(function(data, status, headers, config){
                 $scope.todos = data.todos;
             })
-            .error(function(){
+            .error(function(data, status, headers, config){
 
             });
 
@@ -23,5 +25,23 @@ angular.module('yoAppApp')
             $scope.todo='';
         };
 
+        $scope.resetForm = function(){
+            $scope.todo = {};
+        };
+
+        $scope.removeTask = function(id){
+            todoService.removeTodo(id)
+                .success(function(data, status, headers, config){
+                    $scope.success = true;
+                    $scope.message = "Todo deleted successfully";
+                })
+                .error(function(data, status, headers, config){
+
+                })
+        };
+
+        $scope.updateTask = function(id){
+
+        };
 
   });

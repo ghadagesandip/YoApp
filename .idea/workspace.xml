@@ -13,7 +13,7 @@
     <file path="$PROJECT_DIR$/../stg/app/webroot/index.php" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1418032342957" ignored="false" />
     <file path="$PROJECT_DIR$/../arabic/app/webroot/index.php" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1418032692740" ignored="false" />
     <file path="$PROJECT_DIR$/../arabic/index.php" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1418886864237" ignored="false" />
-    <file path="/index.html" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419340410791" ignored="false" />
+    <file path="/index.html" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419417426309" ignored="false" />
     <file path="/Dummy.txt" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419333058918" ignored="false" />
     <file path="$PROJECT_DIR$/../angular-todo/app/scripts/services/TodoService.js" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419134141151" ignored="false" />
     <file path="$PROJECT_DIR$/../angular-todo/app/scripts/controllers/TodoCtrl.js" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419134167912" ignored="false" />
@@ -24,16 +24,21 @@
     <file path="$PROJECT_DIR$/../gargash/app/View/Themed/Admin/CarModelCategories/admin_vehicle_index.ctp" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419154183161" ignored="false" />
     <file path="$PROJECT_DIR$/../gargash/app/View/Themed/Admin/CarClasses/admin_amg_vehicle_index.ctp" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419154311776" ignored="false" />
     <file path="$PROJECT_DIR$/../gargash/app/View/Themed/Admin/CarClasses/admin_vehicle_index.ctp" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419154304955" ignored="false" />
-    <file path="$PROJECT_DIR$/../gargash/app/Controller/CarModelsController.php" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419232209172" ignored="false" />
-    <file path="/CarModelsController.php" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419231971014" ignored="false" />
-    <file path="/todoservice.js" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419342616276" ignored="false" />
+    <file path="$PROJECT_DIR$/../gargash/app/Controller/CarModelsController.php" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419408976196" ignored="false" />
+    <file path="/CarModelsController.php" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419408830545" ignored="false" />
+    <file path="/todoservice.js" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419416390206" ignored="false" />
     <file path="/test.js" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419334515388" ignored="false" />
     <file path="$PROJECT_DIR$/../gargash/app/Controller/ApiController.php" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419336890304" ignored="false" />
-    <file path="$PROJECT_DIR$/../BugTrackerApp/app/routes.php" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419336901267" ignored="false" />
+    <file path="$PROJECT_DIR$/../BugTrackerApp/app/routes.php" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419417121753" ignored="false" />
     <file path="$PROJECT_DIR$/bower_components/angular-route/angular-route.js" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419338927874" ignored="false" />
-    <file path="/todo.js" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419342743487" ignored="false" />
-    <file path="/todo.html" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419347285966" ignored="false" />
+    <file path="/todo.js" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419417922884" ignored="false" />
+    <file path="/todo.html" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419418272038" ignored="false" />
     <file path="$PROJECT_DIR$/dist/styles/vendor.20833e0b.css" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419345871266" ignored="false" />
+    <file path="/navbar.js" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419411055419" ignored="false" />
+    <file path="$PROJECT_DIR$/../gargash/app/Controller/CarModelCategoriesController.php" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419406463625" ignored="false" />
+    <file path="$PROJECT_DIR$/../gargash/app/View/Themed/Admin/CarModels/admin_amg_vehicle_add.ctp" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419408911814" ignored="false" />
+    <file path="$PROJECT_DIR$/../gargash/app/View/Themed/Admin/CarModels/admin_amg_vehicle_edit.ctp" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419408896906" ignored="false" />
+    <file path="/noticemessage.js" changelist="2489cd19-92f4-4f76-befc-af7d8ec5ef1d" time="1419418352478" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,10 +63,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="12" selection-start="1048" selection-end="1048" vertical-scroll-proportion="-13.833333">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/directives/navbar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="12" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todo.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/todo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="45" selection-start="100" selection-end="100" vertical-scroll-proportion="-4.375">
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="noticemessage.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/scripts/directives/noticemessage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="12" selection-start="203" selection-end="203" vertical-scroll-proportion="0.28301886">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todo.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/todo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="30" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todoservice.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/services/todoservice.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="6" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="30" selection-start="639" selection-end="639" vertical-scroll-proportion="0.7074468">
+            <state line="35" column="18" selection-start="667" selection-end="667" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -82,21 +143,25 @@
         <option value="$PROJECT_DIR$/app/views/main.html" />
         <option value="$PROJECT_DIR$/Gruntfile.js" />
         <option value="$PROJECT_DIR$/app/scripts/controllers/main.js" />
-        <option value="$PROJECT_DIR$/app/scripts/services/todoservice.js" />
         <option value="$PROJECT_DIR$/app/scripts/services/apibaseurl.js" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/app/views/nav-bar.html" />
+        <option value="$PROJECT_DIR$/app/scripts/services/todoservice.js" />
+        <option value="$PROJECT_DIR$/app/scripts/directives/navbar.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/scripts/controllers/todo.js" />
         <option value="$PROJECT_DIR$/app/views/todo.html" />
-        <option value="$PROJECT_DIR$/bower.json" />
-        <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/app/scripts/directives/noticemessage.js" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
     <option name="y" value="27" />
-    <option name="width" value="1366" />
-    <option name="height" value="741" />
+    <option name="width" value="1368" />
+    <option name="height" value="742" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -124,6 +189,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -152,50 +218,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="YoApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="YoApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="YoApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="YoApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gargash" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Angular-Tutorial" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -285,7 +318,7 @@
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
@@ -326,12 +359,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <frame x="-1" y="27" width="1368" height="742" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28863636" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2931818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -410,52 +443,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="16" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="34" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="75" selection-start="2955" selection-end="2955" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.jshintrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="38" selection-start="295" selection-end="295" vertical-scroll-proportion="0.24177949" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.bowerrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="33" selection-start="35" selection-end="35" vertical-scroll-proportion="0.026501767" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="57" selection-start="395" selection-end="395" vertical-scroll-proportion="0.25" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="217" column="44" selection-start="5583" selection-end="5587" vertical-scroll-proportion="0.3320965" />
@@ -478,21 +465,86 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="4" selection-start="558" selection-end="558" vertical-scroll-proportion="0.5833333">
+        <state line="21" column="4" selection-start="558" selection-end="558" vertical-scroll-proportion="0.5833333" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/nav-bar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="39" selection-start="215" selection-end="215" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/services/apibaseurl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="2" selection-start="160" selection-end="227" vertical-scroll-proportion="0.26595744">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="71" selection-start="582" selection-end="582" vertical-scroll-proportion="0.4722222">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/jquery-ui/ui/datepicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="4" selection-start="537" selection-end="537" vertical-scroll-proportion="0.7350272">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="18" selection-start="667" selection-end="667" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/services/todoservice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="6" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/directives/navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="12" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="30" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="67" selection-start="3081" selection-end="3081" vertical-scroll-proportion="0.49335864">
+        <state line="29" column="12" selection-start="1048" selection-end="1048" vertical-scroll-proportion="-13.833333">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+    <entry file="file://$PROJECT_DIR$/app/views/todo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="30" selection-start="639" selection-end="639" vertical-scroll-proportion="0.7074468">
+        <state line="7" column="45" selection-start="100" selection-end="100" vertical-scroll-proportion="-4.375">
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/directives/noticemessage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="12" selection-start="203" selection-end="203" vertical-scroll-proportion="0.28301886">
           <folding />
         </state>
       </provider>
